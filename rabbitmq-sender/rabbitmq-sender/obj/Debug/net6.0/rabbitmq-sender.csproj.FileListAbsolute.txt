@@ -1,0 +1,17 @@
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\bin\Debug\net6.0\rabbitmq-sender.exe
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\bin\Debug\net6.0\rabbitmq-sender.deps.json
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\bin\Debug\net6.0\rabbitmq-sender.runtimeconfig.json
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\bin\Debug\net6.0\rabbitmq-sender.dll
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\bin\Debug\net6.0\ref\rabbitmq-sender.dll
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\bin\Debug\net6.0\rabbitmq-sender.pdb
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\obj\Debug\net6.0\rabbitmq-sender.csproj.AssemblyReference.cache
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\obj\Debug\net6.0\rabbitmq-sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\obj\Debug\net6.0\rabbitmq-sender.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\obj\Debug\net6.0\rabbitmq-sender.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\obj\Debug\net6.0\rabbitmq-sender.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\obj\Debug\net6.0\rabbitmq-sender.csproj.CopyComplete
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\obj\Debug\net6.0\rabbitmq-sender.dll
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\obj\Debug\net6.0\ref\rabbitmq-sender.dll
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\obj\Debug\net6.0\rabbitmq-sender.pdb
+C:\Users\Dimitar\source\repos\rabbitmq-sender\rabbitmq-sender\obj\Debug\net6.0\rabbitmq-sender.genruntimeconfig.cache

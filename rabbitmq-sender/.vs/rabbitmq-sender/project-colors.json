@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "167ded51-832b-4930-92ac-75b6a047caf0": {
+      "ProjectGuid": "167ded51-832b-4930-92ac-75b6a047caf0",
+      "DisplayName": "rabbitmq-sender",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "64fd2472-4958-4f61-bfac-6a8817f67edd": {
+      "ProjectGuid": "64fd2472-4958-4f61-bfac-6a8817f67edd",
+      "DisplayName": "rabbitmq-consumer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
