@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dimitar\\source\\repos\\rabbitmq-sender\\rabbitmq-sender\\rabbitmq-sender.csproj": {}
+    "C:\\Users\\Dimitar\\Documents\\rabbit-mq-project\\rabbitmq-sender\\rabbitmq-sender\\rabbitmq-sender.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dimitar\\source\\repos\\rabbitmq-sender\\rabbitmq-sender\\rabbitmq-sender.csproj": {
+    "C:\\Users\\Dimitar\\Documents\\rabbit-mq-project\\rabbitmq-sender\\rabbitmq-sender\\rabbitmq-sender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dimitar\\source\\repos\\rabbitmq-sender\\rabbitmq-sender\\rabbitmq-sender.csproj",
+        "projectUniqueName": "C:\\Users\\Dimitar\\Documents\\rabbit-mq-project\\rabbitmq-sender\\rabbitmq-sender\\rabbitmq-sender.csproj",
         "projectName": "rabbitmq-sender",
-        "projectPath": "C:\\Users\\Dimitar\\source\\repos\\rabbitmq-sender\\rabbitmq-sender\\rabbitmq-sender.csproj",
+        "projectPath": "C:\\Users\\Dimitar\\Documents\\rabbit-mq-project\\rabbitmq-sender\\rabbitmq-sender\\rabbitmq-sender.csproj",
         "packagesPath": "C:\\Users\\Dimitar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dimitar\\source\\repos\\rabbitmq-sender\\rabbitmq-sender\\obj\\",
+        "outputPath": "C:\\Users\\Dimitar\\Documents\\rabbit-mq-project\\rabbitmq-sender\\rabbitmq-sender\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dimitar\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dimitar\\source\\repos\\rabbitmq-sender\\rabbitmq-consumer\\rabbitmq-consumer.csproj": {}
+    "C:\\Users\\Dimitar\\Documents\\rabbit-mq-project\\rabbitmq-sender\\rabbitmq-consumer\\rabbitmq-consumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dimitar\\source\\repos\\rabbitmq-sender\\rabbitmq-consumer\\rabbitmq-consumer.csproj": {
+    "C:\\Users\\Dimitar\\Documents\\rabbit-mq-project\\rabbitmq-sender\\rabbitmq-consumer\\rabbitmq-consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dimitar\\source\\repos\\rabbitmq-sender\\rabbitmq-consumer\\rabbitmq-consumer.csproj",
+        "projectUniqueName": "C:\\Users\\Dimitar\\Documents\\rabbit-mq-project\\rabbitmq-sender\\rabbitmq-consumer\\rabbitmq-consumer.csproj",
         "projectName": "rabbitmq-consumer",
-        "projectPath": "C:\\Users\\Dimitar\\source\\repos\\rabbitmq-sender\\rabbitmq-consumer\\rabbitmq-consumer.csproj",
+        "projectPath": "C:\\Users\\Dimitar\\Documents\\rabbit-mq-project\\rabbitmq-sender\\rabbitmq-consumer\\rabbitmq-consumer.csproj",
         "packagesPath": "C:\\Users\\Dimitar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dimitar\\source\\repos\\rabbitmq-sender\\rabbitmq-consumer\\obj\\",
+        "outputPath": "C:\\Users\\Dimitar\\Documents\\rabbit-mq-project\\rabbitmq-sender\\rabbitmq-consumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dimitar\\AppData\\Roaming\\NuGet\\NuGet.Config",
