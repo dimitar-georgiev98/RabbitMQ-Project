@@ -6,6 +6,7 @@
     <RootNamespace>rabbitmq_consumer</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject></StartupObject>
   </PropertyGroup>
 
   <ItemGroup>

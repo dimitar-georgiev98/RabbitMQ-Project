@@ -15,7 +15,7 @@ namespace RabbitMQ.Client
             using (var channel = connection.CreateModel())
             {
                 channel.ExchangeDeclare(exchange: "direct_logs", type: "direct");
-                var routingKey = "message";
+                var routingKey = "info";
                 var body = Encoding.UTF8.GetBytes("Hello");
 
                 while (true)

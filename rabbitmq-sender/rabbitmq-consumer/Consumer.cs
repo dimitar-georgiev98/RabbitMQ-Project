@@ -26,7 +26,7 @@ namespace RabbitMQ.Consumer
                         message);
                 };
                 channel.BasicConsume(
-                    queue: "message",
+                    queue: "info",
                     autoAck: true,
                     consumer: consumer);
 

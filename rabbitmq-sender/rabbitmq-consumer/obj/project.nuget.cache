@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ccmdMqn3gdKU4EiFol4GGOPnhv6697+Zo3rdUeQBOdUaI3ZOslthdAEqPxA/RXHCo9SX5sXc2Rlj/95V+aF3Cw==",
+  "dgSpecHash": "xUqtI6ki9nzC+j+ldetcxHd/ing4+3i4ZQE1v41zhdSo8mzf3nV4+P3eZ+tiBSz0rvXhs0CaBBTGuUSWYt279A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dimitar\\Documents\\rabbit-mq-project\\rabbitmq-sender\\rabbitmq-consumer\\rabbitmq-consumer.csproj",
   "expectedPackageFiles": [
